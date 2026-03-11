@@ -5,5 +5,8 @@ dist/
 # Rust / Tauri
 src-tauri/target/
 
+# Claude Code local config
+.claude/
+
 # macOS
 .DS_Store

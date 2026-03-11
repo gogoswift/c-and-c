@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cat -n /Users/eko/工作/eko/氛围编程桌搭/src-tauri/target/debug/build/c-and-c-*/out/permissions)"
-    ]
-  }
-}
