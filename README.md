@@ -43,10 +43,12 @@ Each active agent gets its own cat. Multiple agents = multiple cats.
     <td align="center">Dusk</td>
   </tr>
   <tr>
+    <td><img src="assets/cat.png" width="180" alt="Menu bar"/></td>
     <td><img src="assets/cc.png" width="180" alt="Usage quota"/></td>
     <td><img src="assets/setting.png" width="180" alt="Settings"/></td>
   </tr>
   <tr>
+    <td align="center">Menu bar</td>
     <td align="center">Usage quota</td>
     <td align="center">Settings</td>
   </tr>
