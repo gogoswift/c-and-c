@@ -36,12 +36,16 @@
     <td><img src="assets/dawn.png" width="180" alt="黎明"/></td>
     <td><img src="assets/day.png" width="180" alt="白天"/></td>
     <td><img src="assets/dusk.png" width="180" alt="黄昏"/></td>
+    <td><img src="assets/cc.png" width="180" alt="用量配额"/></td>
+    <td><img src="assets/setting.png" width="180" alt="设置面板"/></td>
   </tr>
   <tr>
     <td align="center">夜晚</td>
     <td align="center">黎明</td>
     <td align="center">白天</td>
     <td align="center">黄昏</td>
+    <td align="center">用量配额</td>
+    <td align="center">设置面板</td>
   </tr>
 </table>
 
