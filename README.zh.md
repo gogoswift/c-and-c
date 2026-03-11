@@ -44,14 +44,14 @@
     <td align="center">黄昏</td>
   </tr>
   <tr>
-    <td><img src="assets/cat.png" width="180" alt="状态栏"/></td>
     <td><img src="assets/cc.png" width="180" alt="用量配额"/></td>
     <td><img src="assets/setting.png" width="180" alt="设置面板"/></td>
+    <td><img src="assets/cat.png" width="180" alt="状态栏"/></td>
   </tr>
   <tr>
-    <td align="center">状态栏</td>
     <td align="center">用量配额</td>
     <td align="center">设置面板</td>
+    <td align="center">状态栏</td>
   </tr>
 </table>
 
